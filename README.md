@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there, My name is Kevin Neri. 👋
 
-My name is Kevin Neri. I’m currently building a **Smart Mirror** that runs on **Linux**.  
+I’m currently building a **Smart Mirror** that runs on **Linux**.  
 The goal is a sleek, modular display for everyday info—time/date, weather, calendar events, and notifications—using a lightweight UI and easily swappable widgets.
 
----
+----------------
 
 ## 🔭 Current Project: Smart Mirror (Linux)
 - 🪟 Modular widget system (time, weather, calendar, system stats)
@@ -16,8 +16,8 @@ The goal is a sleek, modular display for everyday info—time/date, weather, cal
   - [ ] Theme switcher (light/dark)
  
 ## 🤘 Fun Facts
-- 🏍️ I’m into **motorcycles**, riding, and tracking.  
+- 🏍️ I’m into motorcycles and running track days.  
 - 🚗 Im also into **japanese cars**, from is300 to 240sx.  
 
 ## 📬 Contact
-KNERI001@ODU.EDU
+- Email: [KNERI001@ODU.EDU]
