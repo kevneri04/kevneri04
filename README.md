@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently building a **Smart Mirror** that runs on **Linux**.  
+My name is Kevin Neri. I’m currently building a **Smart Mirror** that runs on **Linux**.  
 The goal is a sleek, modular display for everyday info—time/date, weather, calendar events, and notifications—using a lightweight UI and easily swappable widgets.
 
 ---
